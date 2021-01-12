@@ -5,9 +5,9 @@ This is a telegram bot written in python to simplify how students get updates an
 To request a feature to be implemented, please raise an issue on this repository. Make sure you read all the present issues to avoiding repeating an issue that has already been requested.
 
 # Features in development
-
+To be added later
 # Upcoming features
-
+To be added later
 
 #  Documentation
 Checkout the [Wiki](https://github.com/DSCKabarak/Kabarak-university-bot/wiki)
