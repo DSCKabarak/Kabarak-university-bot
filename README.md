@@ -1,7 +1,7 @@
 # What is this repo about?
 This is a telegram bot written in python to simplify how students get updates and inquiries of services provided by the different departments and schools around campus.
 
-# The bot is still in development but you can test it [here][t.me/kabarakuniversitybot]
+# The bot is still in development but you can test it [here](https://t.me/kabarakuniversitybot)
 Use /bop command to interact with the bot.
 
 # Features supported
