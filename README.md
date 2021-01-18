@@ -9,8 +9,14 @@ To be added later
 # Upcoming features
 To be added later
 
-#  Documentation
-Checkout the [Wiki](https://github.com/DSCKabarak/Kabarak-university-bot/wiki)
+# Setting up Telegram Bot
+
+1. Open telegram and search for `BotFather`
+2. Send `/start` command to start and associate the account with yours
+3. Send `/help` command to show the help
+4. Send `/newbot` command and follow the instruction
+5. Send `/mybots` command to list your bot, select the desired bot
+6. Click on **API Token**
 
 # Feedback
 * File a bug or suggestion in [GitHub Issues](https://github.com/DSCKabarak/Kabarak-university-bot/issues)
